@@ -7,6 +7,6 @@
   "ai": "operational",
   "website": "operational",
   "support": "degraded",
-  "maintenance": false,
+  "maintenance": true,
   "announcement": "Hi"
 }
