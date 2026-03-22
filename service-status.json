@@ -4,7 +4,7 @@
   "commands": "outage",
   "playlists": "outage",
   "spotify": "outage",
-  "ai": "operational",
+  "ai": "outage",
   "website": "operational",
   "support": "operational",
   "maintenance": true,
