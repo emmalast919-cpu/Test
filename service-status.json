@@ -1,12 +1,12 @@
 {
-  "bot": "down",
-  "lavalink": "Operational",
-  "commands": "degraded",
-  "playlists": "operational",
-  "spotify": "operational",
+  "bot": "outage",
+  "lavalink": "operational",
+  "commands": "outage",
+  "playlists": "outage",
+  "spotify": "outage",
   "ai": "operational",
   "website": "operational",
-  "support": "degraded",
+  "support": "operational",
   "maintenance": true,
-  "announcement": "Hi"
+  "announcement": "BOT LAUNCH SOON"
 }
